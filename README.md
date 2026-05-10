@@ -58,6 +58,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Monitoring & Observability
 
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** – Local TUI and report generator for inspecting AI coding agent session costs, tokens, latency, and failures.
 - **[PromptLayer](https://www.promptlayer.com/)** – Log, monitor, and manage prompts across LLM providers.
 - **[Arize AI](https://arize.com/)** – LLM monitoring, evaluation, and prompt tracing.
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
