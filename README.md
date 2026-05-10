@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
+- **[Future AGI](https://github.com/future-agi/future-agi)** – Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evals, simulations, datasets, gateway, and guardrails for LLM and AI agent applications.
 
 ## Prompt Engineering & Management
 
