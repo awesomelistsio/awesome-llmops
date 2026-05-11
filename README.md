@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
+- **[agent-opt](https://github.com/future-agi/agent-opt)** – Open-source library for automated optimization of AI agent workflows with evaluation-driven prompt and config tuning across six algorithms.
 
 ## Prompt Engineering & Management
 
