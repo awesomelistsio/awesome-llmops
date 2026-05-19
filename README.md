@@ -97,6 +97,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Weights & Biases](https://wandb.ai/)** – Track and visualize model training and performance.
 - **[MLflow](https://mlflow.org/)** – Platform for managing the ML lifecycle.
 - **[PromptLayer](https://github.com/promptlayer/promptlayer-python)** – Middleware for logging and versioning prompt inputs and outputs.
+- **[Quotaflow](https://quotaflow.ai/)** – OpenAI-compatible quota and resource management for governed AI access pools.
 - **[OpenLLM](https://github.com/bentoml/OpenLLM)** – Open-source platform to deploy and manage LLMs in production.
 
 ## Related Awesome Lists
