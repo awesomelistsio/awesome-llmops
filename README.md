@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
+- **[Watch.dog](https://watch.dog/)** – Uptime monitoring, automated health-checks, and observability specifically designed for AI agents (like OpenClaw).
 
 ## Prompt Engineering & Management
 
