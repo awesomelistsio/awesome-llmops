@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Helm](https://crfm.stanford.edu/helm/latest/)** – Stanford’s framework for evaluating LLMs across tasks.
 - **[LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** – Test harness for LLM evaluation.
 - **[TruLens](https://github.com/truera/trulens)** – LLM observability and feedback tracking.
+- **[ai-evaluation](https://github.com/future-agi/ai-evaluation)** – Open-source LLM evaluation framework.
 
 ## Serving & Inference
 
@@ -55,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[TGI (Text Generation Inference)](https://github.com/huggingface/text-generation-inference)** – High-performance inference server by Hugging Face.
 - **[DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)** – Low-latency inference for Hugging Face models.
 - **[Ray Serve](https://docs.ray.io/en/latest/serve/)** – Scalable model serving via Ray.
+- **[agent-command-center-sdk](https://github.com/future-agi/agent-command-center-sdk)** – Open-source OpenAI-compatible gateway SDK for managing and routing AI agent requests across providers.
 
 ## Monitoring & Observability
 
@@ -63,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
+- **[traceAI](https://github.com/future-agi/traceAI)** – Open-source OpenTelemetry-native tracing for LLM and agent apps.
 
 ## Prompt Engineering & Management
 
@@ -70,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** – Structured guide to writing effective prompts.
 - **[PromptFoo](https://github.com/promptfoo/promptfoo)** – Compare, test, and evaluate LLM prompts easily.
 - **[Guidance](https://github.com/microsoft/guidance)** – Prompt programming with structured control over model output.
+- **[agent-opt](https://github.com/future-agi/agent-opt)** – Open-source library for evaluation-driven prompt and agent-workflow optimization.
 
 ## Data Management
 
@@ -91,6 +95,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[LLamaIndex](https://github.com/jerryjliu/llama_index)** – Connect data sources to LLMs via indexing.
 - **[RAGStack (Haystack)](https://haystack.deepset.ai/)** – Retrieval-augmented generation framework.
 - **[FastChat](https://github.com/lm-sys/FastChat)** – Open platform for serving and fine-tuning chat LLMs.
+- **[Future AGI](https://github.com/future-agi/future-agi)** – Self-hostable end-to-end agent engineering platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails.
 
 ## Tooling Ecosystem
 
