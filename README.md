@@ -51,6 +51,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Serving & Inference
 
+- **[AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway)** – Self-hosted LLM operations gateway for provider routing, fallback, telemetry, config publishing, diagnostics, and rollback.
+
 - **[vLLM](https://github.com/vllm-project/vllm)** – Fast and memory-efficient inference for LLMs with continuous batching.
 - **[TGI (Text Generation Inference)](https://github.com/huggingface/text-generation-inference)** – High-performance inference server by Hugging Face.
 - **[DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)** – Low-latency inference for Hugging Face models.
