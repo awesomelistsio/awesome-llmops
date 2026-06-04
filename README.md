@@ -98,6 +98,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Weights & Biases](https://wandb.ai/)** – Track and visualize model training and performance.
 - **[MLflow](https://mlflow.org/)** – Platform for managing the ML lifecycle.
 - **[PromptLayer](https://github.com/promptlayer/promptlayer-python)** – Middleware for logging and versioning prompt inputs and outputs.
+- **[FerryAPI](https://www.ferryapi.io/)** – OpenAI-compatible AI API gateway for production apps, with developer API key management, prepaid usage-based billing, and lower-cost multi-model access.
 - **[OpenLLM](https://github.com/bentoml/OpenLLM)** – Open-source platform to deploy and manage LLMs in production.
 
 ## Related Awesome Lists
