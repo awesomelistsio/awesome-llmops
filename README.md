@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Arize AI](https://arize.com/)** – LLM monitoring, evaluation, and prompt tracing.
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[Latitude](https://github.com/latitude-dev/latitude-llm)** – Open-source, MIT-licensed platform for improving production AI agents: observe traces, search semantically, and track recurring failures as issues.
+- **[Tuning Engines](https://www.tuningengines.com/)** – AI control and observability layer for governed model, MCP, skill, workflow, policy, approval, state-reference, and outcome traces with cost analytics.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
 
