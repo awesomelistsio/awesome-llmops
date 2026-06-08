@@ -85,6 +85,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Rebuff](https://github.com/sail-sg/Rebuff)** – Open-source framework for prompt injection defense.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** – Testing, debugging, and securing LLM applications.
 - **[OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation)** – API for detecting harmful or unsafe content.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** – Trust scoring for Solana AI agent wallets using x402 micropayment verification — verify autonomous agents by on-chain payment history. MCP: `{"url":"https://intel.twzrd.xyz/mcp"}`
 
 ## Platforms & Frameworks
 
