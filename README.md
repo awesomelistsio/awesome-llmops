@@ -85,6 +85,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Rebuff](https://github.com/sail-sg/Rebuff)** – Open-source framework for prompt injection defense.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** – Testing, debugging, and securing LLM applications.
 - **[OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation)** – API for detecting harmful or unsafe content.
+- **[SentryNode Gateway](https://github.com/nehadangwal/sentrynode-gateway)** – Open-core AI inference governance and FinOps platform providing semantic routing, budget caps, and cryptographic audit trails.
 
 ## Platforms & Frameworks
 
