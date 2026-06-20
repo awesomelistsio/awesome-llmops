@@ -30,9 +30,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Overview & Learning
 
-- **[LLMOps Guide (Weights & Biases)](https://wandb.ai/site/articles/llmops-the-new-mlops)** – High-level overview of LLMOps concepts and tools.
-- **[LLMOps Field Guide (Fiddler)](https://www.fiddler.ai/blog/llmops-a-field-guide)** – A breakdown of the infrastructure stack for LLMOps.
-- **[LangChain Cookbook](https://github.com/hwchase17/langchain-cookbook)** – Recipes for building with LangChain and LLMs.
+- **[LLMOps Guide (Weights & Biases)](https://wandb.ai/site/articles/understanding-llmops-large-language-model-operations/)** – High-level overview of LLMOps concepts and tools.
+- **[LLM Observability (Fiddler)](https://www.fiddler.ai/llmops)** – Overview of LLMOps monitoring, analysis, and safeguards.
+- **[LangChain Cookbook](https://github.com/gkamradt/langchain-tutorials)** – Recipes for building with LangChain and LLMs.
 - **[Full Stack Deep Learning](https://fullstackdeeplearning.com/)** – Practical LLM lifecycle, from training to deployment.
 
 ## Model Training & Fine-Tuning
@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Arize AI](https://arize.com/)** – LLM monitoring, evaluation, and prompt tracing.
 - **[Opik](https://github.com/comet-ml/opik)** – Open-source LLM observability, evaluation, and tracing platform.
 - **[Latitude](https://github.com/latitude-dev/latitude-llm)** – Open-source, MIT-licensed platform for improving production AI agents: observe traces, search semantically, and track recurring failures as issues.
+- **[ax](https://github.com/Necmttn/ax)** – Local-first telemetry and cost analytics for AI coding-agent sessions, tools, skills, and OTLP events.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
 
@@ -81,8 +82,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Security & Safety
 
-- **[Guardrails AI](https://github.com/shreya-sharma/guardrails)** – Validating and controlling LLM outputs.
-- **[Rebuff](https://github.com/sail-sg/Rebuff)** – Open-source framework for prompt injection defense.
+- **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** – Validating and controlling LLM outputs.
+- **[Rebuff](https://github.com/protectai/rebuff)** – Open-source framework for prompt injection defense.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** – Testing, debugging, and securing LLM applications.
 - **[OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation)** – API for detecting harmful or unsafe content.
 
@@ -97,7 +98,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - **[Weights & Biases](https://wandb.ai/)** – Track and visualize model training and performance.
 - **[MLflow](https://mlflow.org/)** – Platform for managing the ML lifecycle.
-- **[PromptLayer](https://github.com/promptlayer/promptlayer-python)** – Middleware for logging and versioning prompt inputs and outputs.
+- **[PromptLayer](https://github.com/MagnivOrg/prompt-layer-library)** – Middleware for logging and versioning prompt inputs and outputs.
 - **[OpenLLM](https://github.com/bentoml/OpenLLM)** – Open-source platform to deploy and manage LLMs in production.
 
 ## Related Awesome Lists
