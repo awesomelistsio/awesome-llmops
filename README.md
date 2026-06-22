@@ -64,6 +64,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Latitude](https://github.com/latitude-dev/latitude-llm)** – Open-source, MIT-licensed platform for improving production AI agents: observe traces, search semantically, and track recurring failures as issues.
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
+- **[Heron](https://github.com/Netis/heron)** – Passive, SDK-free observability for LLM & agent traffic; reconstructs agent turns and service topology from post-TLS HTTP on the wire — no SDK, no proxy in the request path (Rust, Apache-2.0).
 
 ## Prompt Engineering & Management
 
