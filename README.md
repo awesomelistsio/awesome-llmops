@@ -72,6 +72,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** – Structured guide to writing effective prompts.
 - **[PromptFoo](https://github.com/promptfoo/promptfoo)** – Compare, test, and evaluate LLM prompts easily.
 - **[Guidance](https://github.com/microsoft/guidance)** – Prompt programming with structured control over model output.
+- **[AgentMark](https://github.com/agentmark-ai/agentmark)** – Git-native platform to author prompts as Markdown, version them in your repo, and evaluate in CI.
 
 ## Data Management
 
