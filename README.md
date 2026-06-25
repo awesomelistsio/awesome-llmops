@@ -87,6 +87,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[Rebuff](https://github.com/sail-sg/Rebuff)** – Open-source framework for prompt injection defense.
 - **[Giskard](https://github.com/Giskard-AI/giskard)** – Testing, debugging, and securing LLM applications.
 - **[OpenAI Moderation API](https://platform.openai.com/docs/guides/moderation)** – API for detecting harmful or unsafe content.
+- **[rust-norion](https://github.com/yanghao1143/rust-norion)** – Rust prototype for AI runtime-control boundaries, including routing, memory gates, evidence checks, rollback, and audit traces.
 
 ## Platforms & Frameworks
 
