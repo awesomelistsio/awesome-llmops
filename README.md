@@ -90,6 +90,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Platforms & Frameworks
 
+- **[DaoXE](https://daoxe.com)** – Multi-model multi-protocol AI API gateway for Chat Completions, Responses, Anthropic Messages, and image-compatible endpoints.
 - **[LangChain](https://github.com/hwchase17/langchain)** – Infrastructure to build end-to-end LLM-powered apps.
 - **[LLamaIndex](https://github.com/jerryjliu/llama_index)** – Connect data sources to LLMs via indexing.
 - **[RAGStack (Haystack)](https://haystack.deepset.ai/)** – Retrieval-augmented generation framework.
