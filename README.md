@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[TGI (Text Generation Inference)](https://github.com/huggingface/text-generation-inference)** – High-performance inference server by Hugging Face.
 - **[DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)** – Low-latency inference for Hugging Face models.
 - **[Ray Serve](https://docs.ray.io/en/latest/serve/)** – Scalable model serving via Ray.
+- **[KV Cache Store](https://kvcachestore.com/)** – Hosted KV-cache artifact registry plus open-source Rust CLI. Precompute, verify, quantize, and share attention-state artifacts across self-hosted LLM/RAG serving to cut prefill cost and latency. ([CLI source](https://github.com/kvcachestore/kvcdn))
 
 ## Monitoring & Observability
 
