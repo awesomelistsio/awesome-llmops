@@ -51,6 +51,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Serving & Inference
 
+- **[Bifrost](https://github.com/maximhq/bifrost)** – AI gateway providing a single OpenAI-compatible API across 23+ LLM providers, with automatic fallbacks, load balancing, semantic caching, budget governance, MCP tool calling, and Prometheus metrics.
 - **[vLLM](https://github.com/vllm-project/vllm)** – Fast and memory-efficient inference for LLMs with continuous batching.
 - **[TGI (Text Generation Inference)](https://github.com/huggingface/text-generation-inference)** – High-performance inference server by Hugging Face.
 - **[DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)** – Low-latency inference for Hugging Face models.
