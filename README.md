@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[WhyLabs](https://whylabs.ai/)** – Observability for ML and LLM deployments.
 - **[TruLens](https://trulens.org/)** – Feedback loop framework for evaluating and improving LLM apps.
 - **[Heron](https://github.com/Netis/heron)** – Passive, SDK-free observability for LLM and agent traffic with wire-level tracing and topology reconstruction.
+- **[Tracely](https://github.com/Jwuthri/Tracely)** – Open-source (MIT) trace-native observability and CI for AI agents: grade production traces on ingest, cluster recurring failures, and replay frozen failures as regression tests in CI.
 
 ## Prompt Engineering & Management
 
